@@ -45,15 +45,15 @@ The system consists of three main Verilog modules:
 
 ## File Structure
 
-Car-Parking-Slot-System/
-├── Top_Module.v                    # Main integration module
-├── Parking_System.v                # Core counting logic
-├── Seven_Segment.v                 # Display driver
-├── constraint.xdc                  # Pin constraints for Basys3
-├── Car Parking Slot System.xpr     # Xilinx Vivado project file
-├── README.md                       # Project documentation
-└── WhatsApp.Video.2025-07-15.at.22.40.06_84c8e2c6.mp4  # Demo video
-
+| Path                                                      | Description                          |
+|-----------------------------------------------------------|--------------------------------------|
+| Top_Module.v                                            | Main integration module              |
+| Parking_System.v                                        | Core counting logic                  |
+| Seven_Segment.v                                         | Display driver                       |
+| constraint.xdc                                          | Pin constraints for Basys3           |
+| Car Parking Slot System.xpr                             | Xilinx Vivado project file           |
+| README.md                                               | Project documentation                |
+| WhatsApp.Video.2025-07-15.at.22.40.06_84c8e2c6.mp4       | Demo video                           |
 
 ## Installation and Setup
 
